@@ -50,3 +50,26 @@ Aumento la funcion de tiempo en el administrador de clientes, MyButton, PanelBor
 
     Aumento una columna en la base de datos y realizo el CRUD,GUIManin, CienteTO
 ```
+#componets
+```xml
+fondoInicio, fondoPanel, Mybutton, Panelborde, toasMsg. = Neil camacho
+```
+#GUI
+```xml
+formCliente, GUImain, MainCliente, MainVentas, ReporteVentas.
+```
+#Dao
+```xml
+CarritoDao, carritoDaoi, ClienteDao, ClienteDaoi, ProductoDao, ProductoDaoi, VentaDao, VentaDaoi. = David Robert Yucra Mamani
+```
+#Modelo
+```xml
+CarritoTO, CategoriaTO, MarcaTO, ProductoTO, VentaDetalleTO, VentaTO. = David Robert Yucra Mamani
+```
+#Util
+```xml
+ErrorLogger, MsgBox, UtilsX = Joselyn milagros yucra mamani
+#Dao.conx
+```xml
+Conn, conns, ConnUser. = junior maykol paredes aracayo
+```
